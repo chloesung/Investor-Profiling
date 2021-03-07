@@ -1,6 +1,6 @@
 # Investor-Profiling
 
-## Project
+## Introduction
 
 ### **NH 투자증권 데이터 경진대회 League 2 본선 진출**  
 
