@@ -26,5 +26,8 @@
 ![0044](https://user-images.githubusercontent.com/71932401/146672818-377f4b86-fbb6-44d7-8095-3ef99e9e322b.jpg)  
 
 ## 3. Suggestion
-- Y&Z 세대 신규 고객 유인방법
-- 코로나 종식 이후 고객 유지를 위한 
+![0048](https://user-images.githubusercontent.com/71932401/146672844-73eec8dd-564f-4de8-803c-c9fd92848b00.jpg)  
+![0049](https://user-images.githubusercontent.com/71932401/146672846-560a13db-82d0-4586-87b9-a9eb5550001f.jpg)  
+![0050](https://user-images.githubusercontent.com/71932401/146672851-5a933e02-4fee-4c3e-9281-c6cc60598bba.jpg)  
+![0051](https://user-images.githubusercontent.com/71932401/146672853-8e97f23f-dbbf-4d1b-8edd-543cdd4deeb5.jpg)  
+![0052](https://user-images.githubusercontent.com/71932401/146672856-f3d02277-d27d-4d1e-8c15-2a6699b0291d.jpg)  
