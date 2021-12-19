@@ -13,15 +13,17 @@
 성유지, 이영신, 문구영   
 💬 Contact: chloesung@korea.ac.kr
 
+## 0. Goal
+![0004](https://user-images.githubusercontent.com/71932401/146672716-5af2e211-b293-4fb9-853b-256ce5190999.jpg)
+
 ## 1. Analysis
-- 고객 정보 데이터 분석
-- 코로나 전후 데이터 분석
-- Y&Z세대 군집 별 비교 분석
+![0028](https://user-images.githubusercontent.com/71932401/146672721-78e8a134-31b2-4b60-b291-542e7f01f1be.jpg)
 
 ## 2. Insights
-- 코로나 이후 과열된 주식시장은 지속될 수 있을까?
-- 본격 Y&Z 세대 군집별 종목 비교 분석
-- 군집별 #해시태그 분석
+![0036](https://user-images.githubusercontent.com/71932401/146672804-55e84057-edf6-4219-b6a6-034beb57ffc2.jpg)  
+![0037](https://user-images.githubusercontent.com/71932401/146672808-d89029c7-8805-4b1f-ac89-74e1d0613c6a.jpg)  
+![0038](https://user-images.githubusercontent.com/71932401/146672814-5492a1d8-98ef-4ddb-a608-663fddd987d4.jpg)  
+![0044](https://user-images.githubusercontent.com/71932401/146672818-377f4b86-fbb6-44d7-8095-3ef99e9e322b.jpg)  
 
 ## 3. Suggestion
 - Y&Z 세대 신규 고객 유인방법
