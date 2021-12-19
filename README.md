@@ -1,4 +1,5 @@
 # Investor-Profiling
+![0001](https://user-images.githubusercontent.com/71932401/146672602-3a74fdca-5244-4f6f-bc0a-5a8e2e782f50.jpg)
 
 ## NH 투자증권 데이터 경진대회 League 2 본선 진출
 - **주최:** NH 투자증권, DACON
